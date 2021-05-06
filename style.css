@@ -1,0 +1,89 @@
+#jfjf
+{
+	background-image:url("download.jpeg");
+}
+
+.login_div1 
+	{
+		background:transparent;
+		padding: 20px;
+		float: none;
+		border-radius: 20px;
+	}
+
+.login_div2
+	{
+		background:transparent;
+		padding: 20px;
+		float: none;
+		border-radius: 20px;
+	}
+
+
+#player1_name 
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#ooo
+{
+	font-family: 'Potta One', cursive;
+	font-weight: bold;
+	font-size: 80px;
+}
+
+#ppp
+{
+	border-color: black;
+	background-color: #00BFFF;
+	font-family: 'Erica One', cursive;
+	font-size: 60;
+	font-weight: bold;
+	border-radius:150px ;
+	border-width: 4px;
+}
+
+#ttt
+{
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	font-size: 20;
+}
+
+#mama 
+{
+	border-radius: 600%;
+	height: 160px;
+	width: 160px;
+}
+
+#player2_name_input, #player1_name_input
+{
+	border-radius: 40px;
+	border-color: black;
+	border-width: 3px;
+}
